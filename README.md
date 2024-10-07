@@ -1,2 +1,2 @@
 # BASIC-PYTHON-SCRIPT
-Um código básico Python para armazenar dados do back end de uma aplicação de um restaurante.
+Código Python Back end Básico desenvolvido durante o curso de Python: Primeira Aplicação da Alura em parceria com a UniBB. 
